@@ -3,10 +3,11 @@
 <section class="stage">
     <div class="row">
         <div class="col-12 col-md-6">
-            <img class="image-size__media"
-                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/packs.png" alt="image">
+            <div class="image-size__full">
+                <img class="image-size" src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/packs.png" alt="image">
+            </div>
         </div>
-        <div class="col-12 col-md-6">
+        <div class="col-12 col-md-6 d-flex justify-content-center">
             <div class="text-width">
                 <h2>We can pack anything</h2>
                 <p class="text-into">Into carton, lined carton, bag, pouch, tray, case and pallet</p>
@@ -21,217 +22,217 @@
     </div>
 </section>
 <section class="custome-solutions">
-        <h2 class="custome-solutions--title">Custom Solutions On Your Demand</h2>
-        <p class="custome-solutions--text">Some of our latest featured solutions</p>
-        <ul class="list-flex">
-            <li class="clickme"><a href="javascript:void();" data-tag="one" class="activelink">Case Packers</a></li>
-            <li class="clickme"><a href="javascript:void();" data-tag="two">Try Packers</a></li>
-            <li class="clickme"><a href="javascript:void();" data-tag="three">Cartoners</a></li>
-        </ul>
-        <div style="clear: both;"></div>
-        <div id="list-container">
-            <div class="list" id="one">
-                <div class="list__flex">
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+    <h2 class="custome-solutions--title">Custom Solutions On Your Demand</h2>
+    <p class="custome-solutions--text">Some of our latest featured solutions</p>
+    <ul class="list-flex">
+        <li class="clickme"><a href="javascript:void();" data-tag="one" class="activelink">Case Packers</a></li>
+        <li class="clickme"><a href="javascript:void();" data-tag="two">Try Packers</a></li>
+        <li class="clickme"><a href="javascript:void();" data-tag="three">Cartoners</a></li>
+    </ul>
+    <div style="clear: both;"></div>
+    <div id="list-container">
+        <div class="list" id="one">
+            <div class="list__flex">
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">High Speed Candy</p>
-                            <p class="mashine-mark">TT-400 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="list hide" id="two">
-                <div class="list__flex">
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">High Speed Candy</p>
-                            <p class="mashine-mark">TT-400 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="list hide" id="three">
-                <div class="list__flex">
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">High Speed Candy</p>
+                        <p class="mashine-mark">TT-400 Vertical Cartoner</p>
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">High Speed Candy</p>
-                            <p class="mashine-mark">TT-400 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
-                        </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
+                            alt="TT-50 Vertical Cartoner">
                     </div>
-                    <div class="list-card">
-                        <div class="list-car-text">
-                            <p class="mashine-name">Dosing Droppers</p>
-                            <p class="mashine-mark">TT-50 Vertical Cartoner</p>
-                        </div>
-                        <div class="list-image">
-                            <img class="list-image__size"
-                                src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
-                                alt="TT-50 Vertical Cartoner">
-                        </div>
-                        <div class="list-mashine-details">
-                            <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
-                                Optimum Accessiblity
-                                Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
-                                detection and rejection system
-                            </p>
-                            <div class="link__right">
-                                <a class="details-link" href="#">Check out solutions ></a>
-                            </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="list hide" id="two">
+            <div class="list__flex">
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">High Speed Candy</p>
+                        <p class="mashine-mark">TT-400 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="list hide" id="three">
+            <div class="list__flex">
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">High Speed Candy</p>
+                        <p class="mashine-mark">TT-400 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/tt-400-render-stripe.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="list-card">
+                    <div class="list-car-text">
+                        <p class="mashine-name">Dosing Droppers</p>
+                        <p class="mashine-mark">TT-50 Vertical Cartoner</p>
+                    </div>
+                    <div class="list-image">
+                        <img class="list-image__size"
+                            src="http://localhost/tishma-technologies/wp-content/uploads/2021/03/TT-50-01.png"
+                            alt="TT-50 Vertical Cartoner">
+                    </div>
+                    <div class="list-mashine-details">
+                        <p class="details-text__left">Speeds up to 140 Cartons Per Minute 36+" powered magazine
+                            Optimum Accessiblity
+                            Quick & Easy-Assisted Change-over Positive Product Handing & Piacement Open flat
+                            detection and rejection system
+                        </p>
+                        <div class="link__right">
+                            <a class="details-link" href="#">Check out solutions ></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="btn-position__center">
         <a href="#" class="btn-custome-solutions">
             Browse all solutions

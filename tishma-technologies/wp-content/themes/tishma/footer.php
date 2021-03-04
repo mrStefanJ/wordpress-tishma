@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <p class="tishma-name">Thisma Technologies Joins</p>
-                    <p class="tishma-title">The IPG Family</p>
+                    <span class="tishma-title">The IPG Family</span><span class="igt-title">ipg</span>
                     <p class="tishma-text">Tishma Tecnologies, now a wholy ownde subsidiary of Intertape Polymer Group,
                         designs and manufactures
                         high-efficiency packaging machinery and packaging systems. Our products are used worldwide in
