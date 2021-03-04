@@ -21,8 +21,8 @@
     </div>
 </section>
 <section class="custome-solutions">
-        <h2>Custom Solutions On Your Demand</h2>
-        <p>Some of our latest featured solutions</p>
+        <h2 class="custome-solutions--title">Custom Solutions On Your Demand</h2>
+        <p class="custome-solutions--text">Some of our latest featured solutions</p>
         <ul class="list-flex">
             <li class="clickme"><a href="javascript:void();" data-tag="one" class="activelink">Case Packers</a></li>
             <li class="clickme"><a href="javascript:void();" data-tag="two">Try Packers</a></li>
