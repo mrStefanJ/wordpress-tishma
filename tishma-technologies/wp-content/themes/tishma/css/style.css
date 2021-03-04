@@ -208,18 +208,25 @@ h1.entry-title {
   border-bottom: 1px solid var(--grey-light);
   text-align: center;
 }
-ul.list-flex {
+.custome-solutions--title{
+  font-weight: 700;
+}
+.custome-solutions--text{
+  margin-bottom: 150px;
+}
+.list-flex {
   display: flex;
   justify-content: center;
   padding: 0px;
   list-style-type: none;
 }
-ul.list-flex li {
+.list-flex li {
   width: 280px;
 }
 .list-flex li a {
   text-decoration: none;
   font-size: var(--font-media);
+  font-weight: 700;
   border: 1px solid var(--grey-light);
   margin: 10px;
   padding: 10px 70px;
@@ -244,7 +251,7 @@ ul.list-flex li {
 }
 .activelink {
   background: var(--red-light);
-  color: var(--white);
+  color: var(--black-dark);
 }
 
 .list-card {
