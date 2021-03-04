@@ -25,6 +25,8 @@ In browser write http://localhost/tishma-technologies/wp-admin/ and it will ask 
 Username: tishma
 Password: tishma06
 
+When you enter username and password in wordpress go to Media Library and add images from folder tishma-technologies -> wp-content -> themes -> tishma -> assets -> images
+
 ## Technology
 
 * [Bootstrap](https://getbootstrap.com/)
